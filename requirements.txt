@@ -5,3 +5,4 @@ pillow
 gunicorn
 waitress
 pickle-mixin
+scikit-learn
